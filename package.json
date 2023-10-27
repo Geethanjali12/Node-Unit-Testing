@@ -1,0 +1,27 @@
+{
+  "name": "node-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geethanjali12/Node-Unit-Testing.git"
+  },
+  "author": "Geethanjali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geethanjali12/Node-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/Geethanjali12/Node-Unit-Testing#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "mongoose": "^7.6.3",
+    "save-dev": "^0.0.1-security"
+  }
+}
